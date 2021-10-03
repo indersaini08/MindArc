@@ -1,0 +1,27 @@
+{
+  "products": {
+    "product": [
+      {
+        "id": "293492394",
+        "tags": "season|winter",
+        "sku": "PRD-1",
+        "price": "99.8488",
+        "title": "MindArc Product"
+      },
+      {
+        "id": "95498588",
+        "tags": "season|summer",
+        "sku": "PRD-2",
+        "price": "34.9",
+        "title": "Mindarc Product 2"
+      },
+      {
+        "id": "76576484",
+        "tags": "season|summer,season|winter",
+        "sku": "PRD-3",
+        "price": "12.99",
+        "title": "Mindarc Product 3"
+      }
+    ]
+  }
+}
